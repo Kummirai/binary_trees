@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-    <head>
-    <title>0x1D. C - Binary trees</title>
-    </head>
     <body>
     <h1>0x1D. C - Binary trees</h1>
     <p>
@@ -21,10 +18,14 @@
 </p>
     <h2>General</h2>
     <p>What is a binary tree
-•What i88s the difference between a binary tree and a Binary Search Tree
+•What is the difference between a binary tree and a Binary Search Tree
+
 •What is the possible gain in terms of time complexity compared to linked lists
+
 •What are the depth, the height, the size of a binary tree
+
 •What are the different traversal methods to go through a binary tree
+
 •What is a complete, a full, a perfect, a balanced binary tree</p>
 </body>
 </html>
