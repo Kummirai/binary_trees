@@ -11,7 +11,7 @@
 
 <a href="https://en.m.wikipedia.org/wiki/Binary_tree"> Binary tree (note the first line: Not to be confused with B-tree.)</a>
 
-<a href"https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm"> Data Structure and Algorithms - Tree</a>
+<a href="https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm"> Data Structure and Algorithms - Tree</a>
 
 <a href="https://www.tutorialspoint.com/data_structures_algorithms/tree_traversal.htm">Tree Traversal</a>
 
