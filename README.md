@@ -17,7 +17,9 @@
 <a href="https://alx-intranet.hbtn.io/rltoken/BeyJ2gjlE7_djwRiDyeHig">Data structures: Binary Tree</a>
 </p>
     <h2>General</h2>
-    <p>What is a binary tree
+    <p>
+•What is a binary tree
+
 •What is the difference between a binary tree and a Binary Search Tree
 
 •What is the possible gain in terms of time complexity compared to linked lists
